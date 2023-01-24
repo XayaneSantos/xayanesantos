@@ -12,14 +12,11 @@
 </div>
 
 ### Tecnologias que estudo e uso no meu dia 🚀
-<div align="center">
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/xayanesantos)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/xayanesantos)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/xayanesantos)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/xayanesantos)
 [![ WordPress ](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/xayanesantos)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/xayanesantos)
-</div>
-
 <!-- ![ cobra gif ](https://github.com/vicentewncosta/vicentewncosta/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
  -->
