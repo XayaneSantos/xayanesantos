@@ -18,3 +18,5 @@
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/xayanesantos)
 [![ WordPress ](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/xayanesantos)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/xayanesantos)
+
+![ cobra gif ](https://github.com/vicentewncosta/vicentewncosta/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
